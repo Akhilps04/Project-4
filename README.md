@@ -1,2 +1,2 @@
 # Project-4
-#ANN MOdel using MNIST Dataset
+# ANN Model using MNIST Dataset
