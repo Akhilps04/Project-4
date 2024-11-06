@@ -1,5 +1,5 @@
 # Project-4
-MNIST Digit Classification with Artificial Neural Network (ANN)
+MNIST Digit Classification with Artificial Neural Network (ANN).
 This repository contains an implementation of a basic artificial neural network (ANN) to classify handwritten digits from the MNIST dataset. The MNIST dataset consists of 60,000 28x28 grayscale images for training and 10,000 images for testing, representing digits from 0 to 9.
 
 # Project Overview
