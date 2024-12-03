@@ -35,3 +35,6 @@ seaborn and matplotlib for data visualization.
 # How to Use
 Clone the repository, install the required packages, and run the notebook to train and evaluate the model on the MNIST dataset.
 
+# Acknowledgments
+The dataset was sourced from Kaggle.
+Thanks to my mentors for their guidance.
