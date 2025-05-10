@@ -37,3 +37,7 @@ Clone the repository, install the required packages, and run the notebook to tra
 # Acknowledgments
 The dataset was sourced from Kaggle.
 Thanks to my mentors for their guidance.
+
+# 📄 License
+This project is for academic and demonstration purposes only. Please credit the authors if reused or modified.
+
